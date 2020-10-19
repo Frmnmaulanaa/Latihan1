@@ -14,7 +14,7 @@
 
 ``git --version``
 
-![20201016_163410 1](https://user-images.githubusercontent.com/66506609/96243082-71b06f80-0fce-11eb-9a03-940defed1612.png)
+![Screenshot (31)](https://user-images.githubusercontent.com/73011370/96498980-f9200c00-1276-11eb-819e-e622c6ee9cf1.png)
 
 
 ### Menambahkan Global Config
@@ -29,7 +29,7 @@
 
 `$ git config --global user.email “nama_user”`
 
-![20201016_163452 1](https://user-images.githubusercontent.com/66506609/96243249-a8868580-0fce-11eb-954a-39270ac9c26c.png)
+![Screenshot (32)](https://user-images.githubusercontent.com/73011370/96499070-1e147f00-1277-11eb-9df7-a670db8d6eef.png)
 
 ### Perintah Dasar Git
 
