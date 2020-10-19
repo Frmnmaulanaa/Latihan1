@@ -68,6 +68,7 @@ $ cd latihan1``
 `$ echo “# Latihan 1” >> README.md`
 * File **README.md** berhasil dibuat.
 
+![Screenshot (34)](https://user-images.githubusercontent.com/73011370/96495528-2e762b00-1272-11eb-86b9-c8179aaf861f.png)
 
 
 
@@ -77,7 +78,6 @@ $ cd latihan1``
 `$ git add README.md`
 * File **README.md** berhasil ditambahkan.
 
-![Screenshot (50)](https://user-images.githubusercontent.com/66506609/96245078-221f7300-0fd1-11eb-9171-a25f2bdbfa35.png)
 
 
 ### `Commit` (Menyimpan perubahan ke database)
@@ -86,7 +86,7 @@ $ cd latihan1``
 `$ git commit -m “File pertama saya”`
 * Perubahan berhasil disimpan.
 
-![20201016_163326 1](https://user-images.githubusercontent.com/66506609/96244442-43339400-0fd0-11eb-8fdb-45032a8ec449.png)
+![Screenshot (35)](https://user-images.githubusercontent.com/73011370/96495581-48b00900-1272-11eb-990b-46f6dcd26301.png)
 
 
 ### Membuat repository server
@@ -118,7 +118,7 @@ $ cd latihan1``
 `$ git push -u origin master`
 * Perintah ini akan meminta memasukkan username dan password pada akun github.com
 
-![Screenshot (50)](https://user-images.githubusercontent.com/66506609/96245078-221f7300-0fd1-11eb-9171-a25f2bdbfa35.png)
+![Screenshot (36)](https://user-images.githubusercontent.com/73011370/96495718-654c4100-1272-11eb-854b-515916542c53.png)
 
 
 ### Melihat hasilnya pada server repository
@@ -126,7 +126,7 @@ $ cd latihan1``
 * Buka laman github.com, arahkan pada repositorinya.
 * Maka perubahan akan terlihat pada laman tersebut.
 
-![Screenshot (41)](https://user-images.githubusercontent.com/66506609/95936958-eafa6780-0e00-11eb-85fa-262b7f92ef40.png)
+![Screenshot (37)](https://user-images.githubusercontent.com/73011370/96495789-857c0000-1272-11eb-9154-940f48cee094.png)
 
 
 ### Clone Repository
@@ -134,11 +134,11 @@ $ cd latihan1``
 * Clone repository, pada dasarnya adalah meng-copy repository server dan secara otomatis membuat satu direktory sesuai dengan nama repositorynya (working directory).
 * Untuk melakukan cloning, gunakan perintah `git clone [url]`
 
-![Screenshot (59)](https://user-images.githubusercontent.com/66506609/96254417-76c9ea80-0fdf-11eb-8af2-15adba4f4c33.png)
+![Screenshot (38)](https://user-images.githubusercontent.com/73011370/96496599-9b3df500-1273-11eb-8f1e-7db5b18da0d7.png)
 
 ### Kegunaan file README.md
 
 * Apabila kita menggunakan github, untuk memberikan penjelasan awal pada project yang kita buat, maka dapat menggunakan sebuah file yang bernama README.md
 * Pada file tersebut kita dapat membuat dokumentasi awal dari setiap project yang kita buat untuk memberikan penjelasan atau sekedar cara penggunaan dari aplikasi yang kita kembangkan.
 * Penulisan file README.md berbasis teks, dan untuk pemformatannya menggunakan Markdown format.
-* untuk lebih jelasnya, dapat anda pelajari cara penggunaan markdown pada url berikut: https://guides.github.com/features/mastering-markdown/
+* untuk lebih jelasnya, dapat anda pelajari cara penggunaan markdown pada url berikut: https://guides.github.com/features/mastering-markdown/# Latihan 1
